@@ -2,6 +2,12 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+---
+
+[crypto-currency-app](https://ivan-niceman.github.io/crypto-currency-app/)
+
+---
+
 ## Library Crypto Convert
 
 ```sh

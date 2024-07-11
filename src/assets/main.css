@@ -3,11 +3,6 @@
 }
 
 body {
-  font-family: 'Roboto', serif;
-  background: linear-gradient(135deg, #0177a9 20%, #007e5e);
-  min-height: 100vh;
-  text-align: center;
-  min-width: 320px;
   margin: 0;
 }
 
@@ -16,7 +11,11 @@ ul {
 }
 
 .page {
+  font-family: 'Roboto', serif;
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  background: linear-gradient(135deg, #0177a9 20%, #007e5e);
+  min-height: 100vh;
+  text-align: center;
+  min-width: 320px;
 }
